@@ -1,7 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ### EDA
+### EDA
 # The Notebook gives an EDA of the dataset provided. We are looking at the transactions provided in the dataset and hightlight any issues in the data.
 
 
